@@ -1,2 +1,2 @@
-# RestaurantManagement
-Personal Project  - RestaurantManagement
+# Personal Project
+Project: RestaurantManagement
